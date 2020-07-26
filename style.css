@@ -14,6 +14,7 @@ body {
     display: inline-block;
     margin-left: 350px;
     margin-top: 50px;
+    box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.41);
 }
 
 .rectangle img {
