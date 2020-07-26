@@ -35,7 +35,7 @@ body {
 }
 
 .buttom {
-    width: 100px;
+    width: 90px;
     height: 40px;
     border-radius: 5px;
     background-color: #5687E4;
@@ -44,8 +44,8 @@ body {
     font-size: 12px;
     font-weight: 300;
     text-align: center;
-    padding-top: 1px;
     color: white;
+    padding-top: 1px;
 }
 
 a {
